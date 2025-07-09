@@ -1,2 +1,2 @@
 Hello everyone 
-my project is https://github.com/vanquyen252005/CV-Project
+Project URL: https://github.com/vanquyen252005/CV-Project
