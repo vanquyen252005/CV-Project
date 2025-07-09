@@ -1,2 +1,3 @@
 Hello everyone 
-Project URL: https://github.com/vanquyen252005/CV-Project
+🔗 [Project URL](https://vanquyen252005.github.io/CV-Project/)
+
